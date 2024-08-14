@@ -21,5 +21,5 @@ This project is NOT open source as of yet and select developers MAY gain access 
 
 As we work on the project and create new files, all of the websites updates will be uploaded here in order to be used as a learning tool for new coders or those looking for a live and up to date webserver project to look at.
 
-We are more than welcome to hearyour opinions on the webserver should you see any problems with it or have an idea on how to optimise the webserver for any lower-end devices.
+We are more than welcome to hear your opinions on the webserver should you see any problems with it or have an idea on how to optimise the webserver for any lower-end devices.
 
